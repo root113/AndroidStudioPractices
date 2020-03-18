@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNav</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_deals">Deals</string>
+    <string name="nav_find">Find</string>
+    <string name="nav_where">Where</string>
+    <string name="nav_others">Others</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
